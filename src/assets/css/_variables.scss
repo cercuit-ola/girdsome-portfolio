@@ -1,0 +1,22 @@
+html {
+  --base-font-size: 22px;
+}
+body {
+  --bg-color: #1d2229;
+  --bg-header: #31363d;
+  --bg-footer: #14161d;
+  --work-card-bg: #222327;
+  --body-color: #f3f3f3;
+  --title-color: #ffffff;
+  --link-color: #4ecca3;
+  --accent-color: #4ecca3;
+  --border-color: rgba(90, 90, 90, 0.253);
+  --card-tag-bg: #11111198;
+  --code-bg: #11111198;
+  --space: 3.5rem;
+}
+@media screen and (max-width: 650px) {
+  html {
+    --base-font-size: 18px;
+  }
+}

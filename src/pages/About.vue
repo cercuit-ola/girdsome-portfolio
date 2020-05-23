@@ -3,7 +3,7 @@
     <div class="about">
       <div class="about-text">
         <h1>About Me</h1>
-        <p>Freshest Nigga in town. Oboy content hard. We just trying to climb the ladder wey no dey. Imaginary metamorphosing</p>
+        <p>Sam , The Freshest Nigga in town. Oboy content hard. We just trying to climb the ladder wey no dey. Imaginary metamorphosing</p>
       </div>
       <div class="about-photo">
         <g-image src="~/assets/images/person.jpg" width="300" />

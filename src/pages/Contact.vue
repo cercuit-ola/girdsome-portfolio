@@ -6,8 +6,8 @@
         If you would like to inquire about a new project, speaking engagements, chat about product design or just say a friendly hello, please feel free to reach via
         <a
           class="email-link"
-          href="mailto:example@gmail.com"
-        >email</a>.
+          href="mailto:samuelcenaokediji@gmail.com"
+        >email</a>cd 
       </p>
     </div>
   </Layout>

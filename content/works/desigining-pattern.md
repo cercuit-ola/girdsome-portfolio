@@ -1,6 +1,6 @@
 ---
 title: Designing a pattern
-date: 2019-03-04
+date: 2019-05-04
 published: true
 tags: [mobile, product design]
 client: Google

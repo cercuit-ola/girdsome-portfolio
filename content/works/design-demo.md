@@ -1,6 +1,6 @@
 ---
 title: Design app demo
-date: 2019-02-09
+date: 2019-05-09
 published: true
 tags: [design, mobile]
 client: Google

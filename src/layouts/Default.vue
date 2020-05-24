@@ -20,10 +20,6 @@
     <footer class="footer">
       <div class="footer__content">
         <p>
-          Built with 🍻 by
-          <a target="_blank" href="//edmundekott.me">Edmund Ekott</a>
-        </p>
-        <p>
           Powered by
           <a target="_blank" href="//gridsome.org">Gridsome</a>
         </p>

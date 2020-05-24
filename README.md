@@ -6,7 +6,7 @@
 
 ## One-click deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Edmund1645/gridsome-portfolio-story)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)]
 
 ## Config
 
@@ -24,7 +24,7 @@
 
 ## Demo URL
 
-[gridsome-portfolio-story.netlify.com](https://gridsome-portfolio-story.netlify.com/)
+[gridsome-portfolio-story.netlify.com](https://gridsome-portfolio.netlify.com/)
 
 ## Installation
 
@@ -34,7 +34,7 @@
 
 ### 2. Create a Gridsome project
 
-1. `gridsome create my-gridsome-site https://github.com/Edmund1645/gridsome-portfolio-story` to install this starter
+1. `gridsome create my-gridsome-site https://github.com/Edmund164/gridsome-portfolio-story` to install this starter
 2. `cd my-gridsome-site` to open the folder
 3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+
